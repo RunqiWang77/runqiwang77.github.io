@@ -32,12 +32,12 @@ My research interests primarily lie in the realm of digital humans, with a speci
 <!-- <div class='paper-box-text' markdown="1">-->
 <!-- [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://likaitian.github.io/)-->
 
-**Likai Tian**, Zhengwei Yang, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang
+<!---**Likai Tian**, Zhengwei Yang, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang-->
 
 <!-- - This work highlights the significance of salient frames in the Video-to-Shop Retrieval task and introduce fashion expressiveness to determine the saliency of each video frame. -->
 <!--- This work proposes a Self-supervised Fashion-aware Contrastive Language-Image Pre-training (SF-CLIP) framework, which expands the ability of CLIP with a strong sense of fashion expressiveness for effective retrieval. -->
-</div>
-</div>
+<!---</div>-->
+<!---</div>-->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
