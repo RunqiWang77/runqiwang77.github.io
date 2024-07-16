@@ -47,8 +47,8 @@ My research interests primarily lie in the realm of digital humans, with a speci
 - *2020.09 - 2023.06*, Outstanding Student Scholarship of Wuhan University (3 times)
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
-- *2019.09 - 2023.06*, Undergraduate, Wuhan University, Wuhan.
+- *2024.09 - 2027.06 (now)*, Master, Wuhan University, Wuhan.
+- *2020.09 - 2024.06*, Undergraduate, Wuhan University, Wuhan.
 
 # 💻 Internships
 - *2024.05 - 2024.09*, TeleAI, China,Beijing.
